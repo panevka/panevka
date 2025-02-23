@@ -89,8 +89,9 @@
 <br>
 
 ## 🚀 Future growth
-
-### 🎯 Specific plans and goals
+<details>
+<summary><h3>🎯 Specific plans and goals</h3></summary> 
+ 
 ```mermaid
 timeline
         title Tech Exploration Roadmap
@@ -107,8 +108,11 @@ timeline
         section May
           Study : Study for Technical Exam
 ```
+</details>
 
-### 💡 Loose thoughts and ideas
+<details>
+<summary><h3>💡 Loose thoughts and ideas</h3></summary>
+ 
 ```mermaid
 %%{init: {
     'theme': 'base',
@@ -155,5 +159,5 @@ mindmap
           Free AWS Tier for students
 
 ```
-
+</details>
 
