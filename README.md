@@ -88,6 +88,8 @@
 <br>
 <br>
 
+<!---
+
 ## 🚀 Future growth
 <details>
 <summary><h3>🎯 Specific plans and goals</h3></summary> 
@@ -160,4 +162,4 @@ mindmap
 
 ```
 </details>
-
+-->
