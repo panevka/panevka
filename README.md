@@ -10,15 +10,14 @@
   
 ┌──┤ what i've worked with ├───────▰▰▰
 │
-│
 ├─◈ Web stuff
 │ ├─── Frontend: |   JS/TS  |    React.js    |    HTML     |      CSS    |  TailwindCSS  |  Vite
 │ └─── Backend:  |   Java   |   Spring Boot  |  Hibernate  |   Node.js   |   Express.js  |
-│  
-├─◈ Tools:      |  Docker  | GitHub Actions |    CI/CD    |     Git     |    AWS
+├─◈ Tools:      |  Docker  | GitHub Actions |    CI/CD    |     Git     |      AWS      |
 ├─◈ Databases:  |  MySQL   |     SQLite     |  PostgreSQL |    Redis    |
 │
 ├─◈ Other: bits of C#, Python, C, Lua, Kotlin
+│
 └───────────────────────────────▰▰▰
 
 ┌──┤ projects ├─────────▰▰▰
@@ -30,14 +29,11 @@
 │ 
 └───────────────────────────────▰▰▰
  
-
 ┌──┤ interests ├─────────▰▰▰
 │
-├─◈ High level integration of ESMS (Emacs SendMail Services) with SMTP (Socially Maladjusted Text Pipelines)
+├─◈ High level integration of ESMS (Emacs SendMail Services) with SMTP (Semantically Maladjusted Text Pipelines)
 ├─◈ XDDD - XML Driven Development & Debugging
-├─◈ Vimacs API interoperability and behaviour-driven configuration for scalable cognitive workflow orchestration
 ├─◈ Integration of 418 HTTP Status compliance with REST API services
-├─◈ Recently learning about Production-Driven Bug Detection (PDBD)
 │ 
 └───────────────────────────────▰▰▰
   
@@ -49,8 +45,6 @@
 
 </pre>
 
-
-## 📊 Stats dashboard
 <span width="100%">
  <table>
   <tr>
