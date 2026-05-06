@@ -52,11 +52,11 @@
 </span>
 <br><br>
 <span>
-<img src="https://function-bun-production-01f0.up.railway.app/file" width="33%">
+<img src="https://function-bun-production-01f0.up.railway.app/file" width="30%">
 </img>
-<img src="https://function-bun-production-01f0.up.railway.app/file" width="33%">
+<img src="https://function-bun-production-01f0.up.railway.app/file" width="30%">
 </img>
-<img src="https://function-bun-production-01f0.up.railway.app/file" width="33%">
+<img src="https://function-bun-production-01f0.up.railway.app/file" width="30%">
 </img>
 </span>
 
