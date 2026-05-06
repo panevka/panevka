@@ -45,9 +45,20 @@
 
 </pre>
 
-<img src="https://function-bun-production-01f0.up.railway.app/file">
+<span>
+  <img width="45%"></img>
+  <a href="https://function-bun-production-01f0.up.railway.app/toggle" >Toggle</a>
+  <img width="45%"></img>
+</span>
+<br><br>
+<span>
+<img src="https://function-bun-production-01f0.up.railway.app/file" width="33%">
 </img>
-<a href="https://function-bun-production-01f0.up.railway.app/toggle">Toggle</a>
+<img src="https://function-bun-production-01f0.up.railway.app/file" width="33%">
+</img>
+<img src="https://function-bun-production-01f0.up.railway.app/file" width="33%">
+</img>
+</span>
 
 <span width="100%">
  <table>
