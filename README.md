@@ -45,11 +45,8 @@
 
 </pre>
 
-<span>
-  <img width="45%"></img>
-  <a href="https://function-bun-production-01f0.up.railway.app/toggle" >Toggle</a>
-  <img width="45%"></img>
-</span>
+<h2><a href="https://function-bun-production-01f0.up.railway.app/toggle">Toggle</a></h2>
+
 <br><br>
 <span>
 <img src="https://function-bun-production-01f0.up.railway.app/file" width="30%">
