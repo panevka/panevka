@@ -45,7 +45,7 @@
 
 </pre>
 
-<h2><a href="https://function-bun-production-01f0.up.railway.app/toggle">Toggle</a></h2>
+<h2><a href="https://function-bun-production-01f0.up.railway.app/toggle?latest">Toggle</a></h2>
 
 <br><br>
 <span>
