@@ -1,1 +1,6 @@
-randomvalule 0.06120419647141484
+
+    	<img src="https://axum-cloudflare-adapter.panevka.workers.dev/image">
+    	<a href="https://axum-cloudflare-adapter.panevka.workers.dev/toggle/left">left</a>
+    	<a href="https://axum-cloudflare-adapter.panevka.workers.dev/toggle/mid">mid</a>
+    	<a href="https://axum-cloudflare-adapter.panevka.workers.dev/toggle/right">right</a>
+    
