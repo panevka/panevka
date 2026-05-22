@@ -1,12 +1,5 @@
 
-  <h2><a href="https://function-bun-production-2fce.up.railway.app/toggle?latest">Toggle</a></h2>
-  </span> <br><br>
-  <span>
-  <img src="https://function-bun-production-2fce.up.railway.app/file?v=e3ef533e-782e-41ea-b075-8090ed083991" width="30%">
-  </img>
-  <img src="https://function-bun-production-2fce.up.railway.app/file?v=e3ef533e-782e-41ea-b075-8090ed083991" width="30%">
-  </img>
-  <img src="https://function-bun-production-2fce.up.railway.app/file?v=e3ef533e-782e-41ea-b075-8090ed083991" width="30%">
-  </img>
-  </span>
-  
+<img src='https://axum-cloudflare-adapter.panevka.workers.dev/image/584306'>
+<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/left'>left</a>
+<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/mid'>mid</a>
+<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/right'>right</a>
