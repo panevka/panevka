@@ -1,5 +1,5 @@
 
-<img src='https://axum-cloudflare-adapter.panevka.workers.dev/image?v=668745'>
+<img src='https://axum-cloudflare-adapter.panevka.workers.dev/image/left?v=668745'>
 <img src='https://axum-cloudflare-adapter.panevka.workers.dev/image?v=668745'>
 <img src='https://axum-cloudflare-adapter.panevka.workers.dev/image?v=668745'>
 <a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/left?v=668745'>left</a>
