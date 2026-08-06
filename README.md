@@ -1,5 +1,5 @@
 
-<img src='https://axum-cloudflare-adapter.panevka.workers.dev/image/left?v=290989'>
-<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/left?v=290989'>left</a>
-<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/mid?=290989'>mid</a>
-<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/right?=290989'>right</a>
+<img src='https://axum-cloudflare-adapter.panevka.workers.dev/image/left?v=408392'>
+<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/left?v=408392'>left</a>
+<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/mid?=408392'>mid</a>
+<a href='https://axum-cloudflare-adapter.panevka.workers.dev/toggle/right?=408392'>right</a>
